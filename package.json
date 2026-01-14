@@ -1,0 +1,23 @@
+{
+  "name": "githup101",
+  "version": "1.0.0",
+  "description": "ตัวอย่างการใช้งาน Githup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiw416/githup101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiw416/githup101/issues"
+  },
+  "homepage": "https://github.com/jiw416/githup101#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
